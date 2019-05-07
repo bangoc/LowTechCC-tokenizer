@@ -4,12 +4,11 @@
 
 In a console with project's root folder set as the working directory
 
-mkdir b && b
-
-cmake ..
-
-make
-
+```
+$> mkdir b && cd b
+$> cmake ..
+$> make
+```
 
 ## Use the tool
 There are two commands:
